@@ -7,3 +7,4 @@ Cara Instalasi :
 https://docs.rajaapi.com/dokumentasi/wilayah
 
 ## Link Demo
+https://surdaysoft.com/demo/ci_wilayah/
