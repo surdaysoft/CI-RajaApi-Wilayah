@@ -11,7 +11,10 @@ $config['key'] = 'your-api-key';
 ```
 dengan api key kalian
 * Jika belum punya api key nya, bisa daftar di link dibawah ini
+```
 https://docs.rajaapi.com/dokumentasi/wilayah
-
+```
 ## Link Demo
+```
 https://surdaysoft.com/demo/ci_wilayah/
+```
