@@ -25,7 +25,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 $config['base_url'] = 'http://localhost/project/raja_api_wilayah_CI/';
 
-$config['key'] = 'HigA6ej6E76GbOulYTL2V3j4oD83NbZ1oAgYhrosYdQAxfy2ae';
+$config['key'] = 'your-api-key';
 /*
 |--------------------------------------------------------------------------
 | Index File
